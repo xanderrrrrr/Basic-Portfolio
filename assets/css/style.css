@@ -1,3 +1,25 @@
 body {
     background-color: whitesmoke;
   }
+
+.topnav {
+    background-color: #4aaaa5;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.topnav-right {
+    float: right;
+    color: black;
+    background-color: white;
+}
