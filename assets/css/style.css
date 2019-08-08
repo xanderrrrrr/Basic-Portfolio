@@ -7,10 +7,14 @@ body {
     overflow: hidden;
 }
 
+.centerEverything {
+    text-align: center;
+    width: 960px;
+}
 
 .topnav a {
     float: left;
-    color: white;
+    color: #777777;
     text-align: center;
     padding: 14px 50px;
     text-decoration: none;
